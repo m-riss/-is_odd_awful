@@ -134,6 +134,9 @@ int _120 = 0;
 int number = 0;
 int Exit = 0;
 
+string Odd = "";
+string Even = "";
+
 _0 = 0;
 _1 = 1;
 _2 = 2;
@@ -245,9 +248,18 @@ _107 = 107;
 _108 = 108;
 _109 = 109;
 _110 = 110;
+_111 = 111;
+_112 = 112;
+_113 = 113;
+_114 = 114;
+_115 = 115;
+_116 = 116;
+_117 = 117;
+_118 = 118;
+_119 = 119;
+_120 = 120;
 
-string Odd = "";
-string Even = "";
+
 Odd = "Odd";
 Even = "Even";
 
@@ -476,25 +488,25 @@ if (number == _109) {
 cout << Odd << endl; }
 if (number == _110) {
 cout << Even << endl; }
-if (number == 111) {
+if (number == _111) {
 cout << Odd << endl; }
-if (number == 112) {
+if (number == _112) {
 cout << Even << endl; }
-if (number == 113) {
+if (number == _113) {
 cout << Odd << endl; }
-if (number == 114) {
+if (number == _114) {
 cout << Even << endl; }
-if (number == 115) {
+if (number == _115) {
 cout << Odd << endl; }
-if (number == 116) {
+if (number == _116) {
 cout << Even << endl; }
-if (number == 117) {
+if (number == _117) {
 cout << Odd << endl; }
-if (number == 118) {
+if (number == _118) {
 cout << Even << endl; }
-if (number == 119) {
+if (number == _119) {
 cout << Odd << endl; }
-if (number == 120) {
+if (number == _120) {
 cout << Even << endl; }
 if (number == 121) {
 cout << Odd << endl; }
@@ -555,6 +567,106 @@ cout << Even << endl; }
 if (number == 149) {
 cout << Odd << endl; }
 if (number == 150) {
+cout << Even << endl; }
+if (number == 151) {
+cout << Odd << endl; }
+if (number == 152) {
+cout << Even << endl; }
+if (number == 153) {
+cout << Odd << endl; }
+if (number == 154) {
+cout << Even << endl; }
+if (number == 155) {
+cout << Odd << endl; }
+if (number == 156) {
+cout << Even << endl; }
+if (number == 157) {
+cout << Odd << endl; }
+if (number == 158) {
+cout << Even << endl; }
+if (number == 159) {
+cout << Odd << endl; }
+if (number == 160) {
+cout << Even << endl; }
+if (number == 161) {
+cout << Odd << endl; }
+if (number == 162) {
+cout << Even << endl; }
+if (number == 163) {
+cout << Odd << endl; }
+if (number == 164) {
+cout << Even << endl; }
+if (number == 165) {
+cout << Odd << endl; }
+if (number == 166) {
+cout << Even << endl; }
+if (number == 167) {
+cout << Odd << endl; }
+if (number == 168) {
+cout << Even << endl; }
+if (number == 169) {
+cout << Odd << endl; }
+if (number == 170) {
+cout << Even << endl; }
+if (number == 171) {
+cout << Odd << endl; }
+if (number == 172) {
+cout << Even << endl; }
+if (number == 173) {
+cout << Odd << endl; }
+if (number == 174) {
+cout << Even << endl; }
+if (number == 175) {
+cout << Odd << endl; }
+if (number == 176) {
+cout << Even << endl; }
+if (number == 177) {
+cout << Odd << endl; }
+if (number == 178) {
+cout << Even << endl; }
+if (number == 179) {
+cout << Odd << endl; }
+if (number == 180) {
+cout << Even << endl; }
+if (number == 181) {
+cout << Odd << endl; }
+if (number == 182) {
+cout << Even << endl; }
+if (number == 183) {
+cout << Odd << endl; }
+if (number == 184) {
+cout << Even << endl; }
+if (number == 185) {
+cout << Odd << endl; }
+if (number == 186) {
+cout << Even << endl; }
+if (number == 187) {
+cout << Odd << endl; }
+if (number == 188) {
+cout << Even << endl; }
+if (number == 189) {
+cout << Odd << endl; }
+if (number == 190) {
+cout << Even << endl; }
+if (number == 191) {
+cout << Odd << endl; }
+if (number == 192) {
+cout << Even << endl; }
+if (number == 193) {
+cout << Odd << endl; }
+if (number == 194) {
+cout << Even << endl; }
+if (number == 195) {
+cout << Odd << endl; }
+if (number == 196) {
+cout << Even << endl; }
+if (number == 197) {
+cout << Odd << endl; }
+if (number == 198) {
+cout << Even << endl; }
+if (number == 199) {
+cout << Odd << endl; }
+if (number == 200) {
 cout << Even << endl; }
 
 cin >> Exit;
@@ -639,6 +751,46 @@ _77 = 0;
 _78 = 0;
 _79 = 0;
 _80 = 0;
+_81 = 0;
+_82 = 0;
+_83 = 0;
+_84 = 0;
+_85 = 0;
+_86 = 0;
+_87 = 0;
+_88 = 0;
+_89 = 0;
+_90 = 0;
+_91 = 0;
+_92 = 0;
+_93 = 0;
+_94 = 0;
+_95 = 0;
+_96 = 0;
+_97 = 0;
+_98 = 0;
+_99 = 0;
+_100 = 0;
+_101 = 0;
+_102 = 0;
+_103 = 0;
+_104 = 0;
+_105 = 0;
+_106 = 0;
+_107 = 0;
+_108 = 0;
+_109 = 0;
+_110 = 0;
+_111 = 0;
+_112 = 0;
+_113 = 0;
+_114 = 0;
+_115 = 0;
+_116 = 0;
+_117 = 0;
+_118 = 0;
+_119 = 0;
+_120 = 0;
 number = 0;
 Exit = 0;
 
