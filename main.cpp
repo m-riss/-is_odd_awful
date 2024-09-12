@@ -119,6 +119,16 @@ int _107 = 0;
 int _108 = 0;
 int _109 = 0;
 int _110 = 0;
+int _111 = 0;
+int _112 = 0;
+int _113 = 0;
+int _114 = 0;
+int _115 = 0;
+int _116 = 0;
+int _117 = 0;
+int _118 = 0;
+int _119 = 0;
+int _120 = 0;
 
 
 int number = 0;
@@ -446,25 +456,25 @@ if (number == _99) {
 cout << Odd << endl; }
 if (number == _100) {
 cout << Even << endl; }
-if (number == 101) {
+if (number == _101) {
 cout << Odd << endl; }
-if (number == 102) {
+if (number == _102) {
 cout << Even << endl; }
-if (number == 103) {
+if (number == _103) {
 cout << Odd << endl; }
-if (number == 104) {
+if (number == _104) {
 cout << Even << endl; }
-if (number == 105) {
+if (number == _105) {
 cout << Odd << endl; }
-if (number == 106) {
+if (number == _106) {
 cout << Even << endl; }
-if (number == 107) {
+if (number == _107) {
 cout << Odd << endl; }
-if (number == 108) {
+if (number == _108) {
 cout << Even << endl; }
-if (number == 109) {
+if (number == _109) {
 cout << Odd << endl; }
-if (number == 110) {
+if (number == _110) {
 cout << Even << endl; }
 if (number == 111) {
 cout << Odd << endl; }
@@ -485,6 +495,66 @@ cout << Even << endl; }
 if (number == 119) {
 cout << Odd << endl; }
 if (number == 120) {
+cout << Even << endl; }
+if (number == 121) {
+cout << Odd << endl; }
+if (number == 122) {
+cout << Even << endl; }
+if (number == 123) {
+cout << Odd << endl; }
+if (number == 124) {
+cout << Even << endl; }
+if (number == 125) {
+cout << Odd << endl; }
+if (number == 126) {
+cout << Even << endl; }
+if (number == 127) {
+cout << Odd << endl; }
+if (number == 128) {
+cout << Even << endl; }
+if (number == 129) {
+cout << Odd << endl; }
+if (number == 130) {
+cout << Even << endl; }
+if (number == 131) {
+cout << Odd << endl; }
+if (number == 132) {
+cout << Even << endl; }
+if (number == 133) {
+cout << Odd << endl; }
+if (number == 134) {
+cout << Even << endl; }
+if (number == 135) {
+cout << Odd << endl; }
+if (number == 136) {
+cout << Even << endl; }
+if (number == 137) {
+cout << Odd << endl; }
+if (number == 138) {
+cout << Even << endl; }
+if (number == 139) {
+cout << Odd << endl; }
+if (number == 140) {
+cout << Even << endl; }
+if (number == 141) {
+cout << Odd << endl; }
+if (number == 142) {
+cout << Even << endl; }
+if (number == 143) {
+cout << Odd << endl; }
+if (number == 144) {
+cout << Even << endl; }
+if (number == 145) {
+cout << Odd << endl; }
+if (number == 146) {
+cout << Even << endl; }
+if (number == 147) {
+cout << Odd << endl; }
+if (number == 148) {
+cout << Even << endl; }
+if (number == 149) {
+cout << Odd << endl; }
+if (number == 150) {
 cout << Even << endl; }
 
 cin >> Exit;
