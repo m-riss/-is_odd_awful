@@ -1030,105 +1030,105 @@ if (number == _199) {
 cout << Odd << endl; }
 if (number == _200) {
 cout << Even << endl; }
-if (number == 201) {
+if (number == _201) {
 cout << Odd << endl; }
-if (number == 202) {
+if (number == _202) {
 cout << Even << endl; }
-if (number == 203) {
+if (number == _203) {
 cout << Odd << endl; }
-if (number == 204) {
+if (number == _204) {
 cout << Even << endl; }
-if (number == 205) {
+if (number == _205) {
 cout << Odd << endl; }
-if (number == 206) {
+if (number == _206) {
 cout << Even << endl; }
-if (number == 207) {
+if (number == _207) {
 cout << Odd << endl; }
-if (number == 208) {
+if (number == _208) {
 cout << Even << endl; }
-if (number == 209) {
+if (number == _209) {
 cout << Odd << endl; }
-if (number == 210) {
+if (number == _210) {
 cout << Even << endl; }
-if (number == 211) {
+if (number == _211) {
 cout << Odd << endl; }
-if (number == 212) {
+if (number == _212) {
 cout << Even << endl; }
-if (number == 213) {
+if (number == _213) {
 cout << Odd << endl; }
-if (number == 214) {
+if (number == _214) {
 cout << Even << endl; }
-if (number == 215) {
+if (number == _215) {
 cout << Odd << endl; }
-if (number == 216) {
+if (number == _216) {
 cout << Even << endl; }
-if (number == 217) {
+if (number == _217) {
 cout << Odd << endl; }
-if (number == 218) {
+if (number == _218) {
 cout << Even << endl; }
-if (number == 219) {
+if (number == _219) {
 cout << Odd << endl; }
-if (number == 220) {
+if (number == _220) {
 cout << Even << endl; }
-if (number == 221) {
+if (number == _221) {
 cout << Odd << endl; }
-if (number == 222) {
+if (number == _222) {
 cout << Even << endl; }
-if (number == 223) {
+if (number == _223) {
 cout << Odd << endl; }
-if (number == 224) {
+if (number == _224) {
 cout << Even << endl; }
-if (number == 225) {
+if (number == _225) {
 cout << Odd << endl; }
-if (number == 226) {
+if (number == _226) {
 cout << Even << endl; }
-if (number == 227) {
+if (number == _227) {
 cout << Odd << endl; }
-if (number == 228) {
+if (number == _228) {
 cout << Even << endl; }
-if (number == 229) {
+if (number == _229) {
 cout << Odd << endl; }
-if (number == 230) {
+if (number == _230) {
 cout << Even << endl; }
-if (number == 231) {
+if (number == _231) {
 cout << Odd << endl; }
-if (number == 232) {
+if (number == _232) {
 cout << Even << endl; }
-if (number == 233) {
+if (number == _233) {
 cout << Odd << endl; }
-if (number == 234) {
+if (number == _234) {
 cout << Even << endl; }
-if (number == 235) {
+if (number == _235) {
 cout << Odd << endl; }
-if (number == 236) {
+if (number == _236) {
 cout << Even << endl; }
-if (number == 237) {
+if (number == _237) {
 cout << Odd << endl; }
-if (number == 238) {
+if (number == _238) {
 cout << Even << endl; }
-if (number == 239) {
+if (number == _239) {
 cout << Odd << endl; }
-if (number == 240) {
+if (number == _240) {
 cout << Even << endl; }
-if (number == 241) {
+if (number == _241) {
 cout << Odd << endl; }
-if (number == 242) {
+if (number == _242) {
 cout << Even << endl; }
-if (number == 243) {
+if (number == _243) {
 cout << Odd << endl; }
-if (number == 244) {
+if (number == _244) {
 cout << Even << endl; }
-if (number == 245) {
+if (number == _245) {
 cout << Odd << endl; }
-if (number == 246) {
+if (number == _246) {
 cout << Even << endl; }
-if (number == 247) {
+if (number == _247) {
 cout << Odd << endl; }
-if (number == 248) {
+if (number == _248) {
 cout << Even << endl; }
-if (number == 249) {
+if (number == _249) {
 cout << Odd << endl; }
-if (number == 250) {
+if (number == _250) {
 cout << Even << endl; }
 if (number == 251) {
 cout << Odd << endl; }
@@ -1311,6 +1311,7 @@ cout << Odd << endl; }
 if (number == 340) {
 cout << Even << endl; }
 
+cout << "Exit?" << endl;
 cin >> Exit;
 _0 = 0;
 _1 = 0;
